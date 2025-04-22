@@ -7,7 +7,7 @@ export default defineConfig({
     redirects: {
         '/discord': {
             status: 301,
-            destination: 'https://discord.gg/hdN2M5rnr3',
+            destination: 'https://discord.gg/2zrak39Wga',
         },
         '/apply': {
             status: 301,
